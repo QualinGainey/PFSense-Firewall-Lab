@@ -66,7 +66,11 @@ This lab gave me hands-on experience with:
 - Network troubleshooting
 
 ## Screenshots
-<img width="717" height="401" alt="Screenshot 2026-09-15 200502" src="https://github.com/user-attachments/assets/6026f642-1d79-44d9-9e18-ea08b1d2c4f2" /> <img width="937" height="1033" alt="Screenshot 2026-09-15 171941" src="https://github.com/user-attachments/assets/a056c915-0aea-47f4-85c6-41280c8bfffc" /> <img width="639" height="517" alt="Screenshot 2026-09-15 200444" src="https://github.com/user-attachments/assets/352e6a01-0487-44a3-813d-023511fb520e" /> <img width="925" height="840" alt="Screenshot 2026-09-15 200112" src="https://github.com/user-attachments/assets/7c1ca280-34f3-4615-9739-943e794459c0" /> <img width="837" height="722" alt="Screenshot 2026-09-15 193556" src="https://github.com/user-attachments/assets/cad0023c-d6fa-4be5-ab52-6a36bb1d47a6" /> <img width="944" height="675" alt="Screenshot 2026-09-15 193616" src="https://github.com/user-attachments/assets/5287a988-ad07-4b06-ab21-b2ba94912009" /> <img width="942" height="758" alt="Screenshot 2026-09-15 193609" src="https://github.com/user-attachments/assets/e074d6a2-b124-427f-a927-f598d2fd5a7a" />
+<img width="717" height="401" alt="Screenshot 2026-09-15 200502" src="https://github.com/user-attachments/assets/6026f642-1d79-44d9-9e18-ea08b1d2c4f2" /> <img width="639" height="517" alt="Screenshot 2026-09-15 200444" src="https://github.com/user-attachments/assets/435acfa6-1d57-423e-aa2e-9f5c23499586" /> <img width="896" height="724" alt="Screenshot 2026-09-15 193549" src="https://github.com/user-attachments/assets/01f0b5e9-7c4f-417e-8316-67fc28ae40fc" /> <img width="837" height="722" alt="Screenshot 2026-09-15 193556" src="https://github.com/user-attachments/assets/4dc4e093-50d2-4f96-beb2-ffd4beb4b97f" /> <img width="942" height="758" alt="Screenshot 2026-09-15 193609" src="https://github.com/user-attachments/assets/2cd95897-46e1-47cd-aad7-fb1101be73f1" /> <img width="944" height="675" alt="Screenshot 2026-09-15 193616" src="https://github.com/user-attachments/assets/9b4e150d-25a4-46bf-a5ee-d18342037867" />
+
+
+
+
 
 
 
