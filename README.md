@@ -48,7 +48,6 @@ During the lab, I troubleshot:
 - Firewall rule placement
 - FQDN/IP-based blocking limitations
 - DNSBL configuration
-
 ## Results
 - Successfully routed the Kali Linux client through pfSense
 - Maintained normal internet connectivity through the firewall
