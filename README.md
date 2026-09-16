@@ -50,11 +50,12 @@ During the lab, I troubleshot:
 - DNSBL configuration
 
 ## Results
-- Kali Linux successfully routed through pfSense
-- General internet connectivity remained available
-- Google remained accessible
-- YouTube access was successfully blocked using DNS filtering
-
+- Successfully routed the Kali Linux client through pfSense
+- Maintained normal internet connectivity through the firewall
+- Verified Google and other permitted websites remained accessible
+- Successfully blocked YouTube using pfBlockerNG DNSBL
+- Verified DNS-based filtering without disrupting general web access
+- 
 ## What I Learned
 This lab gave me hands-on experience with:
 - Firewall policy
