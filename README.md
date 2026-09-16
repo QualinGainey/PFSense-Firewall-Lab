@@ -12,15 +12,15 @@ The goal of the lab was to route a Kali Linux client through pfSense and selecti
 - pfBlockerNG / DNSBL
 
 ## Network Topology
-Kali Linux (192.168.56.102)
-        |
-        v
-pfSense LAN (192.168.56.101)
-        |
-        v
-pfSense WAN (VirtualBox NAT)
-        |
-        v
+
+Kali Linux (192.168.56.102)  
+↓  
+pfSense LAN (192.168.56.101/24)  
+↓  
+pfSense Firewall  
+↓  
+pfSense WAN (VirtualBox NAT)  
+↓  
 Internet
 
 ## Configuration
