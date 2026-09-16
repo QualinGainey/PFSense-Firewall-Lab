@@ -54,7 +54,7 @@ During the lab, I troubleshot:
 - Verified Google and other permitted websites remained accessible
 - Successfully blocked YouTube using pfBlockerNG DNSBL
 - Verified DNS-based filtering without disrupting general web access
-- 
+
 ## What I Learned
 This lab gave me hands-on experience with:
 - Firewall policy
