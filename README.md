@@ -66,7 +66,14 @@ This lab gave me hands-on experience with:
 - Network troubleshooting
 
 ## Screenshots
- <img width="937" height="1033" alt="Screenshot 2026-09-15 171941" src="https://github.com/user-attachments/assets/407dd0a0-0760-494d-a223-4fa80f3ff27f" /> <img width="630" height="233" alt="Screenshot 2026-09-15 193718" src="https://github.com/user-attachments/assets/59ffbc7b-ec44-47c1-8705-07bcd8a6241e" /> <img width="837" height="722" alt="Screenshot 2026-09-15 193556" src="https://github.com/user-attachments/assets/22b33ea9-7b9b-459e-9574-39691f9118ef" /> <img width="896" height="724" alt="Screenshot 2026-09-15 193549" src="https://github.com/user-attachments/assets/bc854818-8389-4fda-8cec-9751909157be" /> <img width="942" height="758" alt="Screenshot 2026-09-15 193609" src="https://github.com/user-attachments/assets/40c95db7-7630-42d6-8c32-edf3fafd6f1c" /> <img width="944" height="675" alt="Screenshot 2026-09-15 193616" src="https://github.com/user-attachments/assets/5fd9a1f9-6f3e-4f30-ba20-e1df0d121fa7" /> <img width="639" height="517" alt="image" src="https://github.com/user-attachments/assets/617cdf07-bd81-464e-9a95-e8faea3ad929" /> <img width="717" height="401" alt="image" src="https://github.com/user-attachments/assets/012284eb-3479-4158-8b92-ab1a62299b39" />
+<img width="717" height="401" alt="Screenshot 2026-09-15 200502" src="https://github.com/user-attachments/assets/6026f642-1d79-44d9-9e18-ea08b1d2c4f2" /> <img width="937" height="1033" alt="Screenshot 2026-09-15 171941" src="https://github.com/user-attachments/assets/a056c915-0aea-47f4-85c6-41280c8bfffc" /> <img width="639" height="517" alt="Screenshot 2026-09-15 200444" src="https://github.com/user-attachments/assets/352e6a01-0487-44a3-813d-023511fb520e" /> <img width="925" height="840" alt="Screenshot 2026-09-15 200112" src="https://github.com/user-attachments/assets/7c1ca280-34f3-4615-9739-943e794459c0" /> <img width="837" height="722" alt="Screenshot 2026-09-15 193556" src="https://github.com/user-attachments/assets/cad0023c-d6fa-4be5-ab52-6a36bb1d47a6" /> <img width="944" height="675" alt="Screenshot 2026-09-15 193616" src="https://github.com/user-attachments/assets/5287a988-ad07-4b06-ab21-b2ba94912009" /> <img width="942" height="758" alt="Screenshot 2026-09-15 193609" src="https://github.com/user-attachments/assets/e074d6a2-b124-427f-a927-f598d2fd5a7a" />
+
+
+
+
+
+
+ 
 
 
 
