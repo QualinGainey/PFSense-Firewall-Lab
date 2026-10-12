@@ -85,6 +85,12 @@ Google remains accessible while YouTube is blocked, confirming selective DNS fil
 
 
 
+### Updated the firewall rules to block tiktok as well
+<img width="940" height="925" alt="image" src="https://github.com/user-attachments/assets/02cf3ba0-1197-4402-bef8-9a9fb8d435d2" /> 
+<img width="919" height="700" alt="image" src="https://github.com/user-attachments/assets/c9334dee-b006-4098-a5c6-92ad12e13b26" />
+<img width="904" height="898" alt="image" src="https://github.com/user-attachments/assets/cd209cd8-e181-4bfd-b2b9-fd16c181e31b" />
+
+
 
 
 
